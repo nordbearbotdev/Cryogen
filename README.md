@@ -17,3 +17,8 @@ git clone https://github.com/nordbearbotdev/Cryogen
 ```shell
 pip3 install -r requirements.txt 
 ```
+
+***Запустите main.py***
+```bash
+python3 main.py
+```
