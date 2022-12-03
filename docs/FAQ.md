@@ -1,4 +1,4 @@
-/// Russian 
+# Russian Version /// Русская Версия
 
 1. Как установить?
 Нажмите на файл install.bat, он установит все нужные модули для корректной работы Cryogen(a).
@@ -7,6 +7,6 @@
 Проверьте валидность ваших токенов в файле - (assets/tokens.txt), а также валидность прокси (assets/proxy.txt)
 
 
-/// English
+# English Version 
 1. How Install?
 Click to install.bat
